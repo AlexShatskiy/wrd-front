@@ -53,7 +53,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-e
+edf
       </footer>
     </div>
   )
